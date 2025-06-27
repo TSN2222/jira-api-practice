@@ -25,4 +25,4 @@ A learning project to practice working with Jira's REST API
 
 This is a live website for viewing Jira ticket data.
 
-Visit: [https://tsn2222.lol/Jira](https://tsn2222.lol/Jira)
+Visit: [https://jira.tsn2222.lol/](https://jira.tsn2222.lol/)
